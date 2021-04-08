@@ -1,3 +1,5 @@
+![ghstats](https://github-readme-stats.vercel.app/api?username=brianbaldner&theme=dark&show_icons=true)
+
 C# Dev
 
 Mostly use game apis to make cool apps and companions
