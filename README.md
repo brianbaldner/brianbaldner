@@ -1,5 +1,4 @@
-![ghstats](https://github-readme-stats.vercel.app/api?username=brianbaldner&theme=dark&show_icons=true&theme=dracula)
-)
+![ghstats](https://github-readme-stats.vercel.app/api?username=brianbaldner&theme=dark&show_icons=true&theme=synthwave)
 
 # About Me
 C# Dev
