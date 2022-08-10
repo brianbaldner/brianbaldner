@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianbaldner" alt="brianbaldner" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [brianbaldner.com](brianbaldner.com)
+- 👨‍💻 All of my projects are available at [https://brianbaldner.com/](brianbaldner.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
